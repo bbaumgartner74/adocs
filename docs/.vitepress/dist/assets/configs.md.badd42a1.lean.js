@@ -1,0 +1,1 @@
+import{_ as t,c as e,o,a}from"./app.5810bcb9.js";const m=JSON.parse('{"title":"Configs","description":"","frontmatter":{},"headers":[],"relativePath":"configs.md"}'),s={name:"configs.md"},r=a("",9),n=[r];function i(p,c,d,l,u,g){return o(),e("div",null,n)}const _=t(s,[["render",i]]);export{m as __pageData,_ as default};
